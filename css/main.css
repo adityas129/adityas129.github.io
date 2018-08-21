@@ -17,7 +17,11 @@ a, u {
 
     background-color: transparent;
 }
+#particles-js{
+  height: 100%;
+  background: #f00;
 
+}
 
 /*
 
