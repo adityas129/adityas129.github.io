@@ -11,6 +11,13 @@ h1,h2,h3{
   line-height:1.2
 }
 
+a, u {
+    text-decoration: none;
+    color: #337ab7;
+
+    background-color: transparent;
+}
+
 
 /*
 
