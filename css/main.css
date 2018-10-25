@@ -53,6 +53,9 @@ a, u {
   bottom: 0;
   left : 0
   right : 0
+  padding:0 10px;
+  margin:40px auto;
+  max-width:650px;
 }
 
 /*
