@@ -45,7 +45,7 @@
       
       <guid>https://adityas129.github.io/now/</guid>
       <description>What&amp;rsquo;s up my life right now?
-Work  August 12th, &amp;lsquo;19 : Battled with personal portfolio  Life Experiences  August 10th, &amp;lsquo;19 : Went out with Matt and Tony to Taste of Danforth!! Ate a few spinach pies, smashed some plates and yelled OPA and had a whole bunch of fun! We then went to Trinity Bellwoods to play Ulti + Soccer - in an attempt to bicycle kick, almost had a concussion lol.</description>
+Work  August 12th, &amp;lsquo;19 : Battled with personal portfolio Sept. 3rd, &amp;lsquo;19: Holy cow, work ended and when school started, life got soooo busy! Sept. 13th, &amp;lsquo;19: Went to HackMIT and won the hackathon! ** Harvard is really cool in terms of the building  Life Experiences  August 10th, &amp;lsquo;19 : Went out with Matt and Tony to Taste of Danforth!! Ate a few spinach pies, smashed some plates and yelled OPA and had a whole bunch of fun!</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ Work  August 12th, &amp;lsquo;19 : Battled with personal portfolio  Life Experie
       
       <guid>https://adityas129.github.io/habits/</guid>
       <description>As many wise men and women have said, compounding results are very real and this advice could not be more relevant to anything more than habits. I hope to use this as a space to track all habits that I have successfully integrated into my lifestyle. In this case, success is defined as persisting the habit for &amp;gt; 21 days consecutively.
- Making my bed right upon waking up Doing pushups upon first step out of bed  </description>
+ Making my bed right upon waking up Doing pushups upon first step out of bed 5 minute Journal 1 LC question a day  </description>
     </item>
     
     <item>
@@ -65,7 +65,7 @@ Work  August 12th, &amp;lsquo;19 : Battled with personal portfolio  Life Experie
       
       <guid>https://adityas129.github.io/meditations/</guid>
       <description>This is a space where I just note down random shit that comes to me:
- Freedom in this day and age is directly proportional to courage Essentialism is the key to progress Discipline is freedom - Jocko Willink (I think that&amp;rsquo;s how it&amp;rsquo;s spelled?) Hooks/Systems are the best way to cultivate productive behaviour AI safety is insanely important Knowledge needs to become decentralized  </description>
+ Freedom in this day and age is directly proportional to courage Essentialism is the key to progress Discipline is freedom - Jocko Willink (I think that&amp;rsquo;s how it&amp;rsquo;s spelled?) Hooks/Systems are the best way to cultivate productive behaviour AI safety is insanely important Knowledge needs to become decentralized I don&amp;rsquo;t need to wait to get to an X position to do meaningful work.</description>
     </item>
     
     <item>
@@ -74,10 +74,11 @@ Work  August 12th, &amp;lsquo;19 : Battled with personal portfolio  Life Experie
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://adityas129.github.io/projects/</guid>
-      <description> Brain Hardware: Step away, Neuralink. Currently in incubation :)
+      <description>Brain Hardware: Step away, Neuralink. Currently in incubation :)
+ Nearer: Nearby Object Detector for Bicycles using Ultrasonic sensors
+ LabelLearn: This project aims to enable a labeller to be consistent with both their fellow labelers and their past self while seeing the live class distribution of the dataset.
  Sundae: A text based journaling chatbot that uses NLP and sentimental analysis to cheer you up!
- MyoVision: A workout assister that uses Myo and statistics to improve your posture while also serving as a tracker of your activity.
-  </description>
+ Messiah: Messiah is an oracle management interface that developers can interact with to get the most reliable data from blockchains.</description>
     </item>
     
     <item>
@@ -86,7 +87,7 @@ Work  August 12th, &amp;lsquo;19 : Battled with personal portfolio  Life Experie
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://adityas129.github.io/questions/</guid>
-      <description> Is a calm mind better or one with a bunch of crazy ideas? How do I manage information intake? What aspects of my identity are worth preserving? How do I conquer the mind and it&amp;rsquo;s primal needs? How do I rapidly iterate my understanding of a very niche area and become a domain expert?  </description>
+      <description>Is a calm mind better or one with a bunch of crazy ideas? How do I manage information intake? What aspects of my identity are worth preserving? How do I conquer the mind and it&amp;rsquo;s primal needs? How do I rapidly iterate my understanding of a very niche area and become a domain expert? How should I increase my rate of learning as a developer? Is specialization in technical skills worth it or is being a generalist more aligned for my goals?</description>
     </item>
     
     <item>
@@ -96,9 +97,8 @@ Work  August 12th, &amp;lsquo;19 : Battled with personal portfolio  Life Experie
       
       <guid>https://adityas129.github.io/reading/</guid>
       <description>books List of all books that I have read and their reviews
- Skin in the Game by Taleb Meditations by Aurelius Bhagvat Gita Shoe Dog Coming Storm Ender&amp;rsquo;s Game Deep Work So Good They Can&amp;rsquo;t Ignore You  List of Books I want to re-read
- Deep Work So Good They Can&amp;rsquo;t Ignore You Meditations by Aurelius Bhagvat Gita  Book Wish list
- Black Swan by Taleb</description>
+ Skin in the Game by Taleb Meditations by Aurelius Bhagvat Gita Shoe Dog Coming Storm Ender&amp;rsquo;s Game Deep Work So Good They Can&amp;rsquo;t Ignore You Zero to One Ego is the Enemy  List of Books I want to re-read
+ Zero to One Deep Work So Good They Can&amp;rsquo;t Ignore You Meditations by Aurelius Bhagvat Gita  Book Wish list</description>
     </item>
     
   </channel>
